@@ -1,5 +1,5 @@
 # BOOK STORE
-A fullstack project build with advanced front technologies like `React` , and backend technologies `nodejs` using `expressjs` framework and 
+A fullstack project build with advanced front technologies like `React` , and backend technologies `nodejs` using `expressjs` framework and
 for database solution using `monogodb` and using `mongoose` as `ORM` in `node`.
 
 * A layer of `redis` caching is added to increase the overall performance of the application.
@@ -15,3 +15,8 @@ for database solution using `monogodb` and using `mongoose` as `ORM` in `node`.
 * start client FE side by `cd client` then `yarn start`
 * to run the tests just run `yarn test`
 * Don't Forget to add .env file
+
+
+
+# This Product application can be Checked at this Repo
+It uses the same Backend but the views are Built with react-native
